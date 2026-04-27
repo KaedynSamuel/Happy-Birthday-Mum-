@@ -115,7 +115,7 @@ const photos = [
   { src: "Keila/mum (60).jpg", tall: false },
 
   { src: "Keila/mum (61).jpg", tall: true },
-  { src: "Keila/mum (62).jpg", tall: false },
+
 
 
 
